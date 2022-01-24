@@ -1,1 +1,1 @@
-Some general functions created in Grasshopper.
+A collection of general functions created in Grasshopper.
